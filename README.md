@@ -1,4 +1,5 @@
-mproving GANs Performance Using Reinforcement Learning
+Improving GANs Performance Using Reinforcement Learning
+
 This project investigates the integration of Reinforcement Learning (RL), specifically Deep Q-Networks (DQN), with Generative Adversarial Networks (GANs) to address the challenges of mode collapse and training instability. It provides implementations and evaluations of Vanilla GAN, DCGAN, and a novel DQN-enhanced GAN architecture on the MNIST dataset.
 
 📌 Project Objectives
